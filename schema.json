@@ -1,0 +1,194 @@
+{
+  "columns": [
+    {
+      "name": "sourceTaxonName",
+      "titles": "predator",
+      "datatype": "string"
+    },
+    {
+      "name": "predator_verbatim",
+      "titles": "predator_verbatim",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonRank",
+      "titles": "predator_rank",
+      "datatype": "string"
+    },
+    {
+      "name": "predator_taxon",
+      "titles": "predator_taxon",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceLifeStageName",
+      "titles": "predator_age",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceSexName",
+      "titles": "predator_sex",
+      "datatype": "string"
+    },
+    {
+      "name": "predator_count",
+      "titles": "predator_count",
+      "datatype": "string"
+    },
+    {
+      "name": "predator_mass",
+      "titles": "predator_mass",
+      "datatype": "string"
+    },
+    {
+      "name": "predator_svl",
+      "titles": "predator_svl",
+      "datatype": "string"
+    },
+    {
+      "name": "predator_tl",
+      "titles": "predator_tl",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceOccurrenceId",
+      "titles": "predator_voucher",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonName",
+      "titles": "prey",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_verbatim",
+      "titles": "prey_verbatim",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonRank",
+      "titles": "prey_rank",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_taxon",
+      "titles": "prey_taxon",
+      "datatype": "string"
+    },
+    {
+      "name": "targetLifeStageName",
+      "titles": "prey_age",
+      "datatype": "string"
+    },
+    {
+      "name": "targetSexName",
+      "titles": "prey_sex",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_count",
+      "titles": "prey_count",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_mass",
+      "titles": "prey_mass",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_tl",
+      "titles": "prey_tl",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_ingested",
+      "titles": "prey_ingested",
+      "datatype": "string"
+    },
+    {
+      "name": "prey_voucher",
+      "titles": "prey_voucher",
+      "datatype": "string"
+    },
+    {
+      "name": "locality_adm0_name",
+      "titles": "locality_adm0_name",
+      "datatype": "string"
+    },
+    {
+      "name": "locality_adm1_name",
+      "titles": "locality_adm1_name",
+      "datatype": "string"
+    },
+    {
+      "name": "locality_adm2_name",
+      "titles": "locality_adm2_name",
+      "datatype": "string"
+    },
+    {
+      "name": "locality_misc",
+      "titles": "locality_misc",
+      "datatype": "string"
+    },
+    {
+      "name": "http://rs.tdwg.org/dwc/terms/decimalLongitude",
+      "titles": "locality_longitude",
+      "datatype": "string"
+    },
+    {
+      "name": "http://rs.tdwg.org/dwc/terms/decimalLatitude",
+      "titles": "locality_latitude",
+      "datatype": "string"
+    },
+    {
+      "name": "basisOfRecordName",
+      "titles": "event_basis",
+      "datatype": "string"
+    },
+    {
+      "name": "event_setting",
+      "titles": "event_setting",
+      "datatype": "string"
+    },
+    {
+      "name": "http://rs.tdwg.org/dwc/terms/eventDate",
+      "titles": "event_date",
+      "datatype": "string"
+    },
+    {
+      "name": "event_start",
+      "titles": "event_start",
+      "datatype": "string"
+    },
+    {
+      "name": "event_end",
+      "titles": "event_end",
+      "datatype": "string"
+    },
+    {
+      "name": "event_outcome",
+      "titles": "event_outcome",
+      "datatype": "string"
+    },
+    {
+      "name": "habitatName",
+      "titles": "event_habitat",
+      "datatype": "string"
+    },
+    {
+      "name": "event_habitat_verbatim",
+      "titles": "event_habitat_verbatim",
+      "datatype": "string"
+    },
+    {
+      "name": "event_remark",
+      "titles": "event_remark",
+      "datatype": "string"
+    },
+    {
+      "name": "referenceCitation",
+      "titles": "reference",
+      "datatype": "string"
+    }
+  ]
+}

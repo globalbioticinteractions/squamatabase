@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "rdfs:comment": [
+    "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
+  ],
+  "tables": [
+    {
+      "tableSchema": "schema.json",
+      "_url": "https://github.com/blueraleigh/squamatabase/raw/master/inst/diet.csv",
+      "url": "diet.csv",
+      "dcterms:bibliographicCitation": "Grundler MC (2020) SquamataBase: a natural history database and R package for comparative biology of snake feeding habits. Biodiversity Data Journal 8: e49943. https://doi.org/10.3897/BDJ.8.e49943",
+      "doi": "10.3897/BDJ.8.e49943",
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002439",
+      "interactionTypeName": "preys on",
+      "headerRowCount": 1,
+      "null": [
+        ""
+      ]
+    }
+  ]
+}
